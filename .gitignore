@@ -1,0 +1,5 @@
+build/
+*.log
+*.bag
+__pycache__/
+*.pyc
