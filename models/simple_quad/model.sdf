@@ -29,6 +29,6 @@
         </material>
       </visual>
     </link>
-
+   <plugin name="simple_controller" filename="libsimple_controller.so"/>
   </model>
 </sdf>
